@@ -1,1 +1,3 @@
 # LineLodu
+
+Design and develop a simple mobile app tailored for the Indian market that connects users with 'line standers'—individuals who can wait in queues on behalf of others at locations like government offices (e.g., DMV/RTO, passport offices, banks, etc.). The app should support features such as user registration, booking a line stander with location/time details, real-time updates on queue status, pricing estimation based on time/location, and secure payments. The interface should be intuitive, support multiple Indian languages, and be optimized for low-end smartphones. Prioritize trust-building elements like verified profiles, ratings, and in-app chat."
